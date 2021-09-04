@@ -1,0 +1,77 @@
+a {
+
+    text-decoration: none;
+   color: crimson;
+}
+
+ul {
+    list-style-type: none;
+    border-color: #fff;
+    border-style: double;
+    background-color: black;  
+    margin: 30px;
+    padding: 7px;
+    overflow:hidden;
+    border-radius: 20px;
+    
+    
+    
+    
+}
+
+
+button{
+    background-color: black;
+   color: crimson;
+    width: 70px;
+    height: 30px;
+    border-color: antiquewhite;
+    border-radius: 20px;
+}
+
+li{
+    
+    background-color: black;
+    
+     font-size: 20px;
+    color: #fff;
+    float: left;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 20px;
+    
+    
+}
+
+html{
+   border-radius: 60px;
+    border: 10px;
+border-color: crimson;
+    border-style: double;
+    margin:6px;
+background-color: black;}
+    
+    body{
+    
+   background-color:  black; 
+   border-radius: 20px;
+    
+}
+.contant{
+    color: crimson;
+    float: right;
+    margin-right: 200px;
+    
+}
+.photo_contant{
+    margin-top: 100px;
+    border-radius: 20px;
+    border: 20px;
+    
+}
+
+.contact{
+    margin-top: 900px;
+    color: crimson;
+    
+}
